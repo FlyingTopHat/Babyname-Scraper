@@ -1,7 +1,7 @@
 import scrapy
 from scrapy.spiders import Spider
 from scrapy.selector import Selector
-from babynamebot.items import NameList
+from babynamescraper.items import NameList
 
 
 class WizardSpider(Spider):
