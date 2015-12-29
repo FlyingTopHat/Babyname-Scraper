@@ -1,7 +1,7 @@
 Baby-name Scraper
 =================
 
-This is a Scrapy project to accompany by blog article '[Scraping and querying data from websites](http://flyingtophat.co.uk/blog/2015/12/08/scraping-and-querying-data-from-websites.html)'. When run it will scrape popular baby-names from around the word from [BabyNameWizard](http://www.babynamewizard.com/).
+This is a Scrapy project to accompany my blog article '[Scraping and querying data from websites](http://flyingtophat.co.uk/blog/2015/12/08/scraping-and-querying-data-from-websites.html)'. When run it will scrape popular baby-names from around the word from [BabyNameWizard](http://www.babynamewizard.com/).
 
 
 Testing
